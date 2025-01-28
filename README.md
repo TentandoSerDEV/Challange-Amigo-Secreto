@@ -13,33 +13,27 @@ Este projeto foi desenvolvido como o desafio final para a fase de seleção do O
 - **Sorteio aleatório:** Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 ## Como usar
-1. Faça um clone deste repositório para sua maquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+Faça um clone deste repositório para sua máquina local:
 
-2. Va até a pasta do repositório:
-    cd amigo-secreto
+git clone https://github.com/seu-usuario/amigo-secreto.git
+Vá até a pasta do repositório: cd amigo-secreto
 
-3. No seu navegador abra o arquivo "index.html" para poder ver a aplicação.
+No seu navegador, abra o arquivo "index.html" para poder ver a aplicação.
 
-4. No campo "Digite um nome" insira os nomes daqueles que vão estar no sorteio.
-![PrintdaTelainIcial] (./imagens/imagem1.png)
+No campo "Digite um nome" insira os nomes daqueles que vão estar no sorteio. 
+![PrintdaTelainIcial](./imagens/imagem1.png)
 
-5. Caso tenha inserido o nome, é só colocar em adicionar ou então apertar a tecla "Enter"
+Caso tenha inserido o nome, é só colocar em adicionar ou então apertar a tecla "Enter"
+![Imagem2](./imagens/imagem2.png)
 
-![Imagem2] (./imagens/imagem2.png)
+Caso você não coloque nada e aperte em adicionar, uma imagem de alerta irá aparecer solicitando para inserir um nome válido.
+![imagem3](./imagens/imagem3.png)
 
-6. Caso você não coloque nada e aperte em adicionar, uma imagem de alerta ira aparecer solicitando para inserir um nome válido.
+Caso você clique em sortear sem ter inserido nada, outro aviso irá aparecer, solicitando para inserir no mínimo um nome para continuar.
+![imagem4](./imagens/imagem4.png)
 
-![imagem3] (./imagens/imagem3.png)
-
-7. Caso você clique em sortear sem ter inserido nada, outro aviso ira aparecer, solicitando para inserir no minimo um nome para continuar.
-
-![imagem4] (./imagens/imagem4.png)
-
-8. Por fim, caso tenha feito tudo corretamente, podera realizar o sorteio.
-
-![imagem5] (./imagens/imagem5.png)
+Por fim, caso tenha feito tudo corretamente, poderá realizar o sorteio.
+![imagem5](./imagens/imagem5.png)
 
 ## Agradecimentos
 
